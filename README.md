@@ -1,7 +1,7 @@
 # Pix2Pix GAN Image->Image Translation
 Tensorflow implementation of Pix2Pix GAN for image-to-image translation
 
-<img src="./output.png" width="500px"></img>
+<img src="./output.PNG" width="500px"></img>
 
 ## The Generator ##
   * The architecture of the generator is a modified U-Net.
